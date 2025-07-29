@@ -8,8 +8,8 @@ A simple, no-code web application for instantly analyzing and visualizing CSV an
 
 This project was developed as part of a hackathon to make data analysis more accessible.
 
-![App Screenshot](https://placehold.co/800x500/2B3137/FFFFFF?text=App+Screenshot+Here)
-*(Replace the placeholder above with a real screenshot of your app!)*
+<img width="1902" height="901" alt="image" src="https://github.com/user-attachments/assets/3fdca3ff-a4c7-431a-b2f3-2b433c843873" />
+
 
 ---
 
@@ -103,5 +103,5 @@ Follow these instructions to get the project up and running on your local machin
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-<img width="1902" height="901" alt="image" src="https://github.com/user-attachments/assets/3fdca3ff-a4c7-431a-b2f3-2b433c843873" />
+
 
