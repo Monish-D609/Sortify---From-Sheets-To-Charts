@@ -9,6 +9,8 @@ A simple, no-code web application for instantly analyzing and visualizing CSV an
 This project was developed as part of a hackathon to make data analysis more accessible.
 
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/785e109e-4117-45d2-8ad9-c9358980efec" />
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/395bad10-2cc2-4470-95ff-5bee8ce3393d" />
+
 <img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/20aff4c7-4309-4fc6-bec8-1394f63849eb" />
 <img width="1320" height="803" alt="image" src="https://github.com/user-attachments/assets/b00ac5cd-3a5c-4020-8f0a-04cec44731dc" />
 <img width="1901" height="855" alt="image" src="https://github.com/user-attachments/assets/179b9987-1768-40f0-a25c-3f0c9e146790" />
