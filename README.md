@@ -13,21 +13,33 @@ This project was developed as part of a hackathon to make data analysis more acc
 
 ---
 
-## ✨ Features
 
-* **Easy File Upload:** Supports both CSV and Excel (`.xlsx`, `.xls`) file formats.
-* **Data Preview:** Displays the first few rows of your dataset to ensure it's loaded correctly.
-* **Automatic Column Analysis:** Intelligently detects whether each column is numerical or categorical.
-* **Numerical Insights:** For numerical columns, it generates:
-    * Key summary statistics (mean, median, standard deviation, etc.).
-    * A histogram to visualize the data distribution.
-* **Categorical Insights:** For categorical columns, it provides:
-    * A count of each unique value.
-    * A bar chart showing the frequency of the most common categories.
-* **Missing Value Detection:** Calculates and displays the number and percentage of null/missing values for every column.
+## 🚀 Features
+
+- ✅ Upload CSV/Excel files
+- ✅ Auto-classify columns as **Numerical** or **Categorical**
+- ✅ Identify missing values
+- ✅ Summary statistics for numerical columns
+- ✅ Column-wise null detection and info
+- ✅ Dynamic chart generation:
+  - Barplot
+  - Lineplot
+  - Scatter plot
+  - Strip plot
+  - Heatmap
+  - Hexbin plot
+  - FaceGrid visualization
+- ✅ Supports combinations:
+  - Categorical vs Categorical
+  - Categorical vs Numerical
+  - Numerical vs Numerical
+- ✅ Responsive UI and dark/light mode support
 
 ---
 
+## 🖼️ Live Preview
+
+Check out the live demo 👉 [https://sortify.streamlit.app](https://sortify.streamlit.app)
 ## 🛠️ Tech Stack
 
 * **Python:** The core programming language.
