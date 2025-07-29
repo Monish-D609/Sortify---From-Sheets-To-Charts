@@ -103,4 +103,5 @@ Follow these instructions to get the project up and running on your local machin
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-<img width="1164" height="337" alt="image" src="https://github.com/user-attachments/assets/7e122299-da1b-4271-aed5-773cc9696f5d" />
+<img width="1902" height="901" alt="image" src="https://github.com/user-attachments/assets/3fdca3ff-a4c7-431a-b2f3-2b433c843873" />
+
